@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KurakuDeibu&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4d9fff,ffffff,4da6ff&theme=radical" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KurakuDeibu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4d9fff,ffffff,4da6ff&theme=radical" /><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KurakuDeibu&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,4d9fff,ffffff,4da6ff&theme=radical" /><br><br>
+
+![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
 
 </div>
 
 
-![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurakuDeibu&layout=donut-vertical)](https://github.com/KurakuDeibu/github-readme-stats)
