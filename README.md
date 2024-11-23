@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 <!-- Quotes -->
 <!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br> -->
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default&quoteType=random&fontColor=indigo)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default&quoteType=random&fontColor=white)
 
 <!-- GitHub-->
 <img  src="https://github-profile-trophy.vercel.app/?username=KurakuDeibu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /><br>
