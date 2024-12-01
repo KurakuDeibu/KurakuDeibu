@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 <table align="center" style="border-collapse: collapse; width: 100%; border: none;">
 <tr>
     <td align="center" colspan="2" style="border: none;">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>      
     </td>
   </tr>
 </table>
