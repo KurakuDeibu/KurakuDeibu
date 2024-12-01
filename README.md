@@ -24,13 +24,4 @@ Here are some ideas to get you started:
 <!-- Github Stats-->
 ![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
 
-</div>
-<table align="center" style="border-collapse: collapse; width: 100%; border: none;">
-<tr>
-    <td align="center" colspan="2" style="border: none;">
-      <a href="#">
-        <img src="contributions.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
+![snake animation](https://github.com/<seu KurakuDeibu>/<seu KurakuDeibu>/blob/output/github-contribution-grid-snake2.svg)
