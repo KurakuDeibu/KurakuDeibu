@@ -1,27 +1,36 @@
-<table width="100%" align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <!-- Quotes -->
-    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default&quoteType=random&fontColor=white)
-    </td>
-  </tr>
+<!--
+**KurakuDeibu/KurakuDeibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<div align="center" >
   
-  <tr>
-    <td align="center" colspan="2">
-      <!-- GitHub Trophies -->
-    <img  src="https://github-profile-trophy.vercel.app/?username=KurakuDeibu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <!-- GitHub Stats -->
-    ![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
-    </td>
-    <td align="center">
-      <!-- GitHub Snake in Dark Mode -->
+<!-- Quotes -->
+<!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br> -->
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default&quoteType=random&fontColor=white)
+
+<!-- GitHub-->
+<img  src="https://github-profile-trophy.vercel.app/?username=KurakuDeibu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /><br>
+
+<!-- Github Stats-->
+![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
+
+<table align="center" style="border-collapse: collapse; width: 100%; border: none;">
+<tr>
+    <td align="center" colspan="2" style="border: none;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>      
     </td>
   </tr>
 </table>
-
