@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <table align="center" style="border-collapse: collapse; width: 100%; border: none;">
 <tr>
     <td align="center" colspan="2" style="border: none;">
-      <a href="#">
-        <img src="github-user-contribution.svg" />
-      </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>      
     </td>
   </tr>
 </table>
