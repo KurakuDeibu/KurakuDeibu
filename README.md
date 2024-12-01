@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <tr>
     <td align="center" colspan="2" style="border: none;">
       <a href="#">
-        <img src="contributions.svg" />
+        <img src="github-user-contribution.svg" />
       </a>
     </td>
   </tr>
