@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <table align="center" style="border-collapse: collapse; width: 100%; border: none;">
 <tr>
     <td align="center" colspan="2" style="border: none;">
-  <img alt="github-snake" src="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution-light.svg" />
     </td>
   </tr>
 </table>
