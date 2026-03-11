@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" >
-  
 
-<!-- GitHub-->
-<img  src="https://github-profile-trophy.vercel.app/?username=KurakuDeibu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub
+<img  src="https://github-profile-trophy.vercel.app/?username=KurakuDeibu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /><br> 
+-->
 
 <!-- Quotes -->
 <!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br> -->
