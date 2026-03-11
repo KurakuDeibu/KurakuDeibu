@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Quotes -->
 <!--<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br> -->
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=churchill&font=default&quoteType=random&fontColor=white)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=light&animation=default&layout=churchill&font=default&quoteType=random&fontColor=black)
 
 <!-- Github Stats![KurakuDeibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurakuDeibu&show_icons=true&theme=radical)
 -->
